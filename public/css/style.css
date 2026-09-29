@@ -4,10 +4,10 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: #eaf6ff;
+    background: #eef3ed;
     margin: 0;
     padding: 40px;
-    color: #243b53;
+    color: #344238;
 }
 
 .container {
@@ -16,27 +16,27 @@ body {
 }
 
 h1 {
-    color: #2b7bbb;
+    color: #58705c;
     margin-bottom: 5px;
 }
 
 h2 {
-    color: #315b78;
+    color: #526957;
     margin-top: 35px;
 }
 
 h3 {
-    color: #234e70;
+    color: #425646;
 }
 
 p {
-    color: #526b7a;
+    color: #68766b;
 }
 
 /* Add Task Button */
 .add-button {
     display: inline-block;
-    background: #5aa9e6;
+    background: #7f9b83;
     color: white;
     padding: 10px 17px;
     border-radius: 10px;
@@ -48,7 +48,7 @@ p {
 }
 
 .add-button:hover {
-    background: #378ac5;
+    background: #6c896f;
 }
 
 /* Task Cards */
@@ -57,7 +57,7 @@ p {
     padding: 22px;
     margin: 18px 0;
     border-radius: 16px;
-    box-shadow: 0 4px 12px rgba(67, 120, 150, 0.12);
+    box-shadow: 0 4px 12px rgba(72, 91, 75, 0.12);
 }
 
 .task-card h3 {
@@ -86,30 +86,30 @@ p {
 }
 
 .edit-button {
-    background: #dff1ff;
-    color: #2672a5;
+    background: #e3ebe3;
+    color: #58705c;
 }
 
 .edit-button:hover {
-    background: #c8e8fc;
+    background: #d4e1d5;
 }
 
 .delete-button {
-    background: #ffe4e4;
-    color: #b84a4a;
+    background: #f6e4e4;
+    color: #a65c5c;
 }
 
 .delete-button:hover {
-    background: #ffd2d2;
+    background: #efd2d2;
 }
 
 .status-button {
-    background: #dff7e8;
-    color: #318052;
+    background: #e1eee2;
+    color: #5d8062;
 }
 
 .status-button:hover {
-    background: #c9f0d8;
+    background: #d0e4d2;
 }
 
 /* Forms */
@@ -118,13 +118,13 @@ p {
     padding: 28px;
     margin-top: 25px;
     border-radius: 16px;
-    box-shadow: 0 4px 12px rgba(67, 120, 150, 0.12);
+    box-shadow: 0 4px 12px rgba(72, 91, 75, 0.12);
 }
 
 .form-card label {
     display: block;
     font-weight: bold;
-    color: #315b78;
+    color: #526957;
     margin-top: 16px;
     margin-bottom: 7px;
 }
@@ -134,18 +134,18 @@ p {
 .form-card select {
     width: 100%;
     padding: 11px;
-    border: 1px solid #c7ddea;
+    border: 1px solid #cbd8cc;
     border-radius: 9px;
     font-size: 14px;
     font-family: Arial, sans-serif;
-    background: #fafdff;
+    background: #fbfdfb;
 }
 
 .form-card input:focus,
 .form-card textarea:focus,
 .form-card select:focus {
     outline: none;
-    border-color: #5aa9e6;
+    border-color: #7f9b83;
 }
 
 .form-card textarea {
@@ -159,7 +159,7 @@ p {
 
 /* Back Button */
 .back-button {
-    color: #378ac5;
+    color: #6c896f;
     text-decoration: none;
     font-weight: bold;
 }

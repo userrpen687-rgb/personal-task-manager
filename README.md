@@ -6,7 +6,7 @@ WST21-PM-2026-SF
 
 ## Student Name
 
-[CHRISTINE, MAE SAURA]
+[Raguine, Trisha Esther D.]
 
 ## Course & Year
 
